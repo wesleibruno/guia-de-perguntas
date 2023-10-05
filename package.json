@@ -1,0 +1,23 @@
+{
+  "name": "projeto-guida-perguntas",
+  "version": "1.0.0",
+  "description": "Uma plataforma de perguntas e respostas no estilo Yahoo respostas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleibruno/guia-de-perguntas.git"
+  },
+  "author": "Weslei Bruno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleibruno/guia-de-perguntas/issues"
+  },
+  "homepage": "https://github.com/wesleibruno/guia-de-perguntas#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
